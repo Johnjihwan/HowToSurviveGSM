@@ -1,2 +1,2 @@
-# GSM-
-GSM의 잡다한 것들을 정리 해놓은 공간
+# How to survive in GSM
+## **✅ GSM에서 살아남기**
